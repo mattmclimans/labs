@@ -605,10 +605,6 @@ Create a custom Incident Type for Cloud IDS security events.
 
     <img src="images/xsoar00.png" alt="xsoar00.png"  width="700" />
 
-    **Username**: `admin`
-
-    **Password**: `fjvrcrkFw1PU6fSYizJA`
-
 2. Create a new incident type.  
    1. Go to **Settings → Objects Setup → Incidents → Types → New Incident Type**
 
